@@ -135,7 +135,7 @@ h1 {
 
 @font-face {
   font-family: "Roboto";
-  src: url("/Roboto-Regular-webfont.58cb7732.woff") format("woff");
+  src: url("../fonts/Roboto-Regular-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -268,7 +268,7 @@ button {
 .header__content {
   max-width: 1200px;
   height: 100vh;
-  background-image: url("/Cookie.d1b538a1.png");
+  background-image: url("../images/Cookie.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -493,7 +493,7 @@ button {
 }
 
 .section--about-us {
-  background-image: url("/Crumbs.09f17510.png");
+  background-image: url("../images/Crumbs.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -851,7 +851,4 @@ button {
   }
 }
 
-
-
-
-/*# sourceMappingURL=/main.d2070829.css.map */
+/*# sourceMappingURL=main.css.map */
