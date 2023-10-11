@@ -135,7 +135,7 @@ h1 {
 
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Regular-webfont.woff") format("woff");
+  src: url("/Roboto-Regular-webfont.58cb7732.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -268,7 +268,7 @@ button {
 .header__content {
   max-width: 1200px;
   height: 100vh;
-  background-image: url("../images/Cookie.png");
+  background-image: url("/Cookie.d1b538a1.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -283,7 +283,7 @@ button {
   .header__content {
     padding: 0 44px;
     grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: 192px 214px 266px auto;
+    grid-template-rows: 192px 214px 215px auto;
     gap: 24px;
   }
 }
@@ -301,6 +301,8 @@ button {
   background-color: #ffeefc;
   width: 100%;
   z-index: 999;
+  top: 0;
+  transition: top 0.3s ease-in-out;
 }
 
 .header__text {
@@ -491,7 +493,7 @@ button {
 }
 
 .section--about-us {
-  background-image: url("../images/Crumbs.png");
+  background-image: url("/Crumbs.09f17510.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -518,7 +520,7 @@ button {
   }
 }
 
-.section--products .section__text-container {
+.section__text-container {
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -617,7 +619,6 @@ button {
 
 .product__image-container {
   width: 100%;
-  /* stylelint-disable-next-line */
   aspect-ratio: 402/512;
   position: relative;
 }
@@ -850,4 +851,7 @@ button {
   }
 }
 
-/*# sourceMappingURL=main.css.map */
+
+
+
+/*# sourceMappingURL=/main.d2070829.css.map */
