@@ -247,7 +247,9 @@ button {
   height: 100vh;
   position: relative;
   overflow-x: hidden;
+  padding-bottom: 20px;
 }
+
 .header__content {
   min-height: 568px;
   max-width: 1200px;
@@ -546,7 +548,7 @@ button {
   }
 }
 @media only screen and (min-width: 640px) and (max-width: 1023px) {
-  .products__product:nth-child(2n+1) {
+  .products__product:nth-child(2n + 1) {
     grid-column: 1/5;
   }
 }
