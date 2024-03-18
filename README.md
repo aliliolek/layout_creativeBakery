@@ -12,4 +12,4 @@ Implemented according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsm
 
 ## Demo
 
-[View Bakerlab demo-link](https://yourusername.github.io/bakerlab/)
+[View Bakerlab demo-link](https://aliliolek.github.io/bakerlab/)
