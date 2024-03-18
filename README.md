@@ -10,6 +10,6 @@ Implemented according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsm
 - CSS/SCSS
 - JavaScript
 
-## Live Demo
+## Demo
 
-[View Bakerlab live](https://yourusername.github.io/bakerlab/)
+[View Bakerlab demo-link](https://yourusername.github.io/bakerlab/)
